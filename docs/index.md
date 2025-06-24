@@ -1,3 +1,5 @@
-# Khu kĩ năng mở
+# Cẩm nang bản thân
 
-Hướng dẫn tự học rất nhiều kĩ năng.
+Một trang về tự học để nâng cao chất lượng cuộc sống của bản thân, từ những điều nhỏ nhất.
+
+Đang trong quá trình hoàn thiện....

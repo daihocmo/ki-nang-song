@@ -1,39 +1,66 @@
-site_name: Kĩ năng mềm - Khu học mở
-site_description: Cải thiện khá nhiều kĩ năng trong cuộc sống hàng ngày.
+site_name: Cẩm nang bản thân - Khu học mở
+site_description: Một cuốn sổ tay về kĩ năng sống và công cuộc tự lập cho mọi người!
 site_author: duykhanh471
 repo_name: Chỉnh sửa trang
 repo_url: https://github.com/daihocmo/ki-nang
 
 nav:
   - 'Trang chủ': 'index.md'
-  - 'Nội trợ': 
-    - 'Hướng dẫn chính': 'noi-tro/index.md'
-    - 'Chăm sóc bản thân': 'noi-tro/cham-soc-ban-than/ban-than.md'
-    - 'Chăm sóc gia đình': 'noi-tro/cham-soc-gia-dinh/untitled.md'
-    - 'Chăm sóc cây cảnh': 'noi-tro/cham-soc-nha-cua/cham-soc-cay-canh.md'
-    - 'Hướng dẫn chính': 'noi-tro/don-dep/huong-dan-chinh.md'
-    - 'Tư duy dọn dẹp': 'noi-tro/don-dep/tu-duy-don-dep.md'
-    - 'Giặt giũ': 'noi-tro/lam-viec-nha/giat-giu.md'
-    - 'Rửa bát': 'noi-tro/lam-viec-nha/rua-bat.md'
-  - 'Nấu ăn': 'nau-an/index.md'
-  - 'Con trai học': 
-    - 'Tổng quan': 'con-trai/index.md'
-    - 'Chăm sóc cơ thể': 'con-trai/cach-tam-goi.md'
-    - 'Xử lý mùi cơ thể': 'con-trai/mui-co-the.md'
-    - 'Chăm sóc da': 'con-trai/skincare.md'
-  - 'Bản thân':
-    - 'Hướng dẫn chính': 'ban-than/guide.md'
-    - 'Thử thách 30 ngày': 'ban-than/30ngay.md'
-    - '60 thử thách đại học': 'ban-than/60-thu-thach-dai-hoc.md'
-    - 'Chăm sóc bản thân': 'ban-than/ban-than.md'
-    - 'Bảo mật riêng tư': 'ban-than/bao-mat-rieng-tu.md'
-    - 'Đọc sách': 'ban-than/doc-sach.md'
-    - 'Grooming': 'ban-than/grooming.md'
-    - 'Trở thành người nghe': 'ban-than/nguoi-nghe.md'
-    - 'Thể dục': 'ban-than/the-duc.md'
-    - 'Thói quen': 'ban-than/thoi-quen.md'
-    - 'Thói quen nhỏ': 'ban-than/tiny-habit.md'
- 
+  - 'Chăm sóc cơ thể mỗi ngày':
+    - 'Đánh răng': 'cham-soc-ca-nhan/danh-rang.md'
+    - 'Rửa mặt và chăm sóc da': 'cham-soc-ca-nhan/cham-soc-da.md'
+    - 'Vệ sinh cơ thể': 'cham-soc-ca-nhan/ve-sinh-than-the.md'
+    - 'Tóc tai các thứ': 'cham-soc-ca-nhan/toc-tai.md'
+    - 'Về mùi cơ thể': 'cham-soc-ca-nhan/khu-mui-co-the.md'
+  - 'Trang phục và vệ sinh cá nhân':
+    - 'Cách giặt quần áo': 've-sinh-trang-phuc/cach-giat-quan-ao.md'
+    - 'Cách gấp và bảo quản quần áo': 've-sinh-trang-phuc/gap-bao-quan-quan-ao.md'
+    - 'Cách phối đồ đơn giản': 've-sinh-trang-phuc/phoi-do.md'
+  - 'Việc nhà cơ bản':
+    - 'Rửa bát đúng cách': 'viec-nha/rua-bat.md'
+    - 'Quét dọn, lau nhà': 'viec-nha/quet-don-lau-nha.md'
+    - 'Dọn giường': 'viec-nha/don-giuong.md'
+    - 'Cách đổ rác và phân loại rác': 'viec-nha/phan-loai-do-rac.md'
+    - 'Bảo quản thực phẩm': 'viec-nha/bao-quan-thuc-pham.md'
+  - 'Nấu ăn và dinh dưỡng cơ bản':
+    - 'Cách nấu cơm, luộc rau, rán trứng': 'nau-an-dinh-duong/nau-com-rau-trung.md'
+    - 'Dụng cụ bếp – cách sử dụng và bảo quản': 'nau-an-dinh-duong/dung-cu-bep.md'
+    - 'Cách đi chợ, đọc nhãn thực phẩm': 'nau-an-dinh-duong/di-cho-nhan-thuc-pham.md'
+    - 'Lên thực đơn đơn giản và lành mạnh': 'nau-an-dinh-duong/thuc-don-lanh-manh.md'
+    - 'Kỹ năng ăn uống đúng giờ, tránh bỏ bữa': 'nau-an-dinh-duong/an-dung-gio.md'
+  - 'Tập luyện và vận động':
+    - 'Thói quen tập thể dục': 'ren-luyen-the-chat/thoi-quen-tap-the-duc.md'
+    - 'Khởi động': 'ren-luyen-the-chat/khoi-dong-gian-co.md'
+    - 'Các bài tập cơ bản tại nhà (không dụng cụ)': 'ren-luyen-the-chat/bai-tap-tai-nha.md'
+  - 'Ngủ nghỉ':
+    - 'Thiết lập đồng hồ sinh học': 'ren-luyen-the-chat/dong-ho-sinh-hoc.md'
+    - 'Cách tạo không gian ngủ lành mạnh': 'ren-luyen-the-chat/khong-gian-ngu.md'
+    - 'Những điều cần tránh trước giờ ngủ': 'ren-luyen-the-chat/tranh-truoc-gio-ngu.md'
+  - 'Chăm sóc tâm hồn':
+    - 'Nhật ký': 'cham-soc-tam-hon/viet-nhat-ky.md'
+    - 'Thiền chánh niệm (Mindfulness)': 'cham-soc-tam-hon/thien-chanh-niem.md'
+    - 'Nghỉ ngơi đúng cách': 'cham-soc-tam-hon/nghi-ngoi-dung-cach.md'
+  - 'Quản lý cảm xúc':
+    - 'Nhận diện cảm xúc': 'quan-ly-cam-xuc/nhan-dien-cam-xuc.md'
+    - 'Đối mặt với lo âu, căng thẳng': 'quan-ly-cam-xuc/doi-mat-lo-au.md'
+    - 'Tìm kiếm sự giúp đỡ': 'quan-ly-cam-xuc/tim-kiem-giup-do.md'
+  - 'Xã giao':
+    - 'Tiếng Việt lịch sự': 'giao-tiep-ung-xu/tieng-viet-lich-su.md'
+    - 'Cách lắng nghe chủ động': 'giao-tiep-ung-xu/lang-nghe-chu-dong.md'
+    - 'Giao tiếp ánh mắt và ngôn ngữ cơ thể': 'giao-tiep-ung-xu/giao-tiep-phi-ngon-ngu.md'
+    - 'Cách bắt chuyện và duy trì cuộc hội thoại': 'giao-tiep-ung-xu/bat-chuyen.md'
+  - 'Ứng xử trong các tình huống thường gặp':
+    - 'Cách xin lỗi – cảm ơn đúng cách': 'giao-tiep-ung-xu/xin-loi-cam-on.md'
+    - 'Giao tiếp với người lớn tuổi': 'giao-tiep-ung-xu/giao-tiep-nguoi-lon-tuoi.md'
+    - 'Ứng xử khi bị từ chối hoặc bị chỉ trích': 'giao-tiep-ung-xu/ung-xu-tu-choi-chi-trich.md'
+  - 'Bài viết khác':
+    - 'Thói quen': 'phat-trien-ban-than/thoi-quen.md'
+    - 'Quản lý chi tiêu': 'phat-trien-ban-than/quan-ly-chi-tieu.md'
+    - 'Tiết kiệm': 'phat-trien-ban-than/tiet-kiem.md'
+  - 'PHỤ LỤC':
+    - 'Gợi ý sách': 'phu-luc/goi-y-sach.md'
+    - 'Tài nguyên tham khảo': 'phu-luc/tai-nguyen-tham-khao.md'
+
 theme:
   palette:
     # Palette toggle for light mode
