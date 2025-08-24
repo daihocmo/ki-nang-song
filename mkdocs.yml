@@ -1,8 +1,9 @@
 site_name: Kĩ năng sống - Khu học mở
 site_description: Một cuốn sổ tay về kĩ năng sống và công cuộc tự lập cho mọi người!
 site_author: duykhanh471
-repo_name: Chỉnh sửa trang
-repo_url: https://github.com/daihocmo/ki-nang
+site_url: https://daihocmo.github.io
+repo_name: Đóng góp & chỉnh sửa trang
+repo_url: https://github.com/daihocmo/ki-nang-song
 
 nav:
   - 'Trang chủ': 'index.md'
@@ -13,10 +14,10 @@ nav:
     - 'Tóc tai các thứ': 'cham-soc-ca-nhan/toc-tai.md'
     - 'Về mùi cơ thể': 'cham-soc-ca-nhan/khu-mui-co-the.md'
   - 'Trang phục và vệ sinh cá nhân':
-    - 'Cách gấp và bảo quản quần áo': 've-sinh-trang-phuc/gap-bao-quan-quan-ao.md'
     - 'Phối đồ': 've-sinh-trang-phuc/phoi-do.md'
     - 'Phối đồ - Đơn giản hóa cho nam': 've-sinh-trang-phuc/phoi-do-don-gian-hoa.md'
     - 'Cách giặt quần áo': 've-sinh-trang-phuc/cach-giat-quan-ao.md'
+    - 'Cách gấp và bảo quản quần áo': 've-sinh-trang-phuc/gap-bao-quan-quan-ao.md'
   - 'Việc nhà cơ bản':
     - 'Tư duy dọn dẹp': 'viec-nha/tu-duy-don-dep.md'
     - 'Rửa bát đúng cách': 'viec-nha/rua-bat.md'
@@ -46,6 +47,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
+  logo: logo.png
+  favicon: logo.png
   features:
     - navigation.instant
     - navigation.sections
