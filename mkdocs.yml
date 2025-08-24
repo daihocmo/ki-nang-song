@@ -1,4 +1,4 @@
-site_name: Cẩm nang bản thân - Khu học mở
+site_name: Kĩ năng sống - Khu học mở
 site_description: Một cuốn sổ tay về kĩ năng sống và công cuộc tự lập cho mọi người!
 site_author: duykhanh471
 repo_name: Chỉnh sửa trang
@@ -13,50 +13,16 @@ nav:
     - 'Tóc tai các thứ': 'cham-soc-ca-nhan/toc-tai.md'
     - 'Về mùi cơ thể': 'cham-soc-ca-nhan/khu-mui-co-the.md'
   - 'Trang phục và vệ sinh cá nhân':
-    - 'Cách giặt quần áo': 've-sinh-trang-phuc/cach-giat-quan-ao.md'
     - 'Cách gấp và bảo quản quần áo': 've-sinh-trang-phuc/gap-bao-quan-quan-ao.md'
-    - 'Cách phối đồ đơn giản': 've-sinh-trang-phuc/phoi-do.md'
+    - 'Phối đồ': 've-sinh-trang-phuc/phoi-do.md'
+    - 'Phối đồ - Đơn giản hóa cho nam': 've-sinh-trang-phuc/phoi-do-don-gian-hoa.md'
+    - 'Cách giặt quần áo': 've-sinh-trang-phuc/cach-giat-quan-ao.md'
   - 'Việc nhà cơ bản':
+    - 'Tư duy dọn dẹp': 'viec-nha/tu-duy-don-dep.md'
     - 'Rửa bát đúng cách': 'viec-nha/rua-bat.md'
     - 'Quét dọn, lau nhà': 'viec-nha/quet-don-lau-nha.md'
-    - 'Dọn giường': 'viec-nha/don-giuong.md'
-    - 'Cách đổ rác và phân loại rác': 'viec-nha/phan-loai-do-rac.md'
-    - 'Bảo quản thực phẩm': 'viec-nha/bao-quan-thuc-pham.md'
-  - 'Nấu ăn và dinh dưỡng cơ bản':
-    - 'Cách nấu cơm, luộc rau, rán trứng': 'nau-an-dinh-duong/nau-com-rau-trung.md'
-    - 'Dụng cụ bếp – cách sử dụng và bảo quản': 'nau-an-dinh-duong/dung-cu-bep.md'
-    - 'Cách đi chợ, đọc nhãn thực phẩm': 'nau-an-dinh-duong/di-cho-nhan-thuc-pham.md'
-    - 'Lên thực đơn đơn giản và lành mạnh': 'nau-an-dinh-duong/thuc-don-lanh-manh.md'
-    - 'Kỹ năng ăn uống đúng giờ, tránh bỏ bữa': 'nau-an-dinh-duong/an-dung-gio.md'
-  - 'Tập luyện và vận động':
-    - 'Thói quen tập thể dục': 'ren-luyen-the-chat/thoi-quen-tap-the-duc.md'
-    - 'Khởi động': 'ren-luyen-the-chat/khoi-dong-gian-co.md'
-    - 'Các bài tập cơ bản tại nhà (không dụng cụ)': 'ren-luyen-the-chat/bai-tap-tai-nha.md'
-  - 'Ngủ nghỉ':
-    - 'Thiết lập đồng hồ sinh học': 'ren-luyen-the-chat/dong-ho-sinh-hoc.md'
-    - 'Cách tạo không gian ngủ lành mạnh': 'ren-luyen-the-chat/khong-gian-ngu.md'
-    - 'Những điều cần tránh trước giờ ngủ': 'ren-luyen-the-chat/tranh-truoc-gio-ngu.md'
-  - 'Chăm sóc tâm hồn':
-    - 'Nhật ký': 'cham-soc-tam-hon/viet-nhat-ky.md'
-    - 'Thiền chánh niệm (Mindfulness)': 'cham-soc-tam-hon/thien-chanh-niem.md'
-    - 'Nghỉ ngơi đúng cách': 'cham-soc-tam-hon/nghi-ngoi-dung-cach.md'
-  - 'Quản lý cảm xúc':
-    - 'Nhận diện cảm xúc': 'quan-ly-cam-xuc/nhan-dien-cam-xuc.md'
-    - 'Đối mặt với lo âu, căng thẳng': 'quan-ly-cam-xuc/doi-mat-lo-au.md'
-    - 'Tìm kiếm sự giúp đỡ': 'quan-ly-cam-xuc/tim-kiem-giup-do.md'
-  - 'Xã giao':
-    - 'Tiếng Việt lịch sự': 'giao-tiep-ung-xu/tieng-viet-lich-su.md'
-    - 'Cách lắng nghe chủ động': 'giao-tiep-ung-xu/lang-nghe-chu-dong.md'
-    - 'Giao tiếp ánh mắt và ngôn ngữ cơ thể': 'giao-tiep-ung-xu/giao-tiep-phi-ngon-ngu.md'
-    - 'Cách bắt chuyện và duy trì cuộc hội thoại': 'giao-tiep-ung-xu/bat-chuyen.md'
-  - 'Ứng xử trong các tình huống thường gặp':
-    - 'Cách xin lỗi – cảm ơn đúng cách': 'giao-tiep-ung-xu/xin-loi-cam-on.md'
-    - 'Giao tiếp với người lớn tuổi': 'giao-tiep-ung-xu/giao-tiep-nguoi-lon-tuoi.md'
-    - 'Ứng xử khi bị từ chối hoặc bị chỉ trích': 'giao-tiep-ung-xu/ung-xu-tu-choi-chi-trich.md'
-  - 'Bài viết khác':
-    - 'Thói quen': 'phat-trien-ban-than/thoi-quen.md'
-    - 'Quản lý chi tiêu': 'phat-trien-ban-than/quan-ly-chi-tieu.md'
-    - 'Tiết kiệm': 'phat-trien-ban-than/tiet-kiem.md'
+  - 'Nấu ăn & Dinh dưỡng':
+    - 'Nấu ăn cơ bản': 'nau-an-dinh-duong/nau-an-co-ban.md'
   - 'PHỤ LỤC':
     - 'Gợi ý sách': 'phu-luc/goi-y-sach.md'
     - 'Tài nguyên tham khảo': 'phu-luc/tai-nguyen-tham-khao.md'
@@ -87,6 +53,19 @@ theme:
     - search.highlighting
     - search.share
   name: material
+  
+
+markdown_extensions:
+  - meta
+  - admonition
+  - attr_list
+  - pymdownx.critic
+  - pymdownx.caret
+  - pymdownx.mark
+  - pymdownx.tilde
+  - pymdownx.details
+  - pymdownx.keys
+  - pymdownx.superfences
   
 plugins:
   - search
